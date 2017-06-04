@@ -10,6 +10,8 @@ namespace Example01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!!");
+            Console.WriteLine("這是基本輸出輸入範例");
         }
     }
 }
